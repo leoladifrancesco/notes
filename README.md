@@ -14,3 +14,8 @@ Next, use task management tools, such as Trello or Asana, to keep track of your 
 
 # 2023-11-18
 - "Keep it simple, stupid!"
+
+# 2023-11-19
+- "Programming wisdom for today: Always write code as if the person who will maintain it is a homicidal maniac who knows where you live." - anonymous
+
+This quote emphasizes the importance of writing clean, well-structured, and easily understandable code. It's not just about making your own life easier when you have to revisit your code in the future, but also about considering the people who may have to work with your code after you. By following best practices and striving for clarity and readability, you can make the lives of your fellow programmers (and potentially yourself) much easier and less stressful.
