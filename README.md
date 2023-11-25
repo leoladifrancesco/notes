@@ -34,3 +34,6 @@ This quote emphasizes the importance of writing clean, well-structured, and easi
 
 # 2023-11-24
 - "Write code that is easy to understand and maintain. Use clear and descriptive variable names, write concise and readable functions, and avoid unnecessary complexity. Remember that code is read more often than it is written, so make it easy for others (and your future self) to read and understand."
+
+# 2023-11-25
+- "Keep it simple, stupid!"
