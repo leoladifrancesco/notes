@@ -262,3 +262,6 @@ This quote encapsulates the essence of effective programming - keeping things si
 
 To be successful as a programmer, you should also have a deep understanding of the principles of computer science, such as data structures, algorithms, software engineering, etc. These principles will help you create efficient and scalable solutions to complex problems. Additionally, learning to communicate effectively with colleagues and clients is essential, as it can make the difference between a successful project and one that fails. 
  - 来自NLP
+
+# 2024-01-17
+- "Keep it simple, stupid!"
