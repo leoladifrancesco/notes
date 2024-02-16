@@ -409,3 +409,13 @@ In essence, write simple, maintainable code, prioritize readability, use modular
 "Program for the present, but design for the future. Anticipate change and write modular, flexible code that can be easily adapted to accommodate new requirements and technologies. This practice of 'future-proofing' your software not only saves time in the long run but also promotes sustainable development and maintainability."
 
 In essence, it emphasizes the importance of writing clean, scalable, and reusable code that can withstand the test of time and changing business needs – a principle central to modern software engineering practices.
+
+# 2024-02-16
+- "Today's programming wisdom is to embrace the SOLID principles: Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion. These guidelines not only foster cleaner, more maintainable code but also promote better design practices for building scalable and adaptable software systems that withstand the test of time and evolving requirements." 
+
+SOLID principles in brief:
+1. Single Responsibility Principle (SRP): A class should have only one reason to change, meaning it should have only one primary responsibility.
+2. Open-Closed Principle (OCP): Software entities should be open for extension but closed for modification.
+3. Liskov Substitution Principle (LSP): Objects of a superclass should be replaceable with objects of its subclasses without breaking the correctness of the program.
+4. Interface Segregation Principle (ISP): Clients should not be forced to depend on methods they do not use; instead, many specific interfaces are better than one general-purpose interface.
+5. Dependency Inversion Principle (DIP): High-level modules should not depend on low-level modules; both should depend on abstractions. Abstractions should not depend on details; rather, details should depend on abstractions.
