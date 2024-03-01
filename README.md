@@ -491,3 +491,9 @@ In practice, this means avoid making assumptions about performance bottlenecks w
  2. Plan ahead: Planning is crucial for any project. When starting a new project or undertaking a large task, take the time to plan out your approach and break it down into smaller, manageable steps. Creating a detailed plan will ensure you have a clear understanding of what needs to happen and when, allowing you and your team to stay on target.  
 3. Stay organized: As a programmer, maintaining a clean and organized codebase is vital for efficiency and ease of maintenance. Follow best practices, like using version control (such as Git), organizing your files and classes, commenting your code, following coding conventions, etc. These practices will not only make your life easier but also help in maintaining and contributing to open source projects.   
 4. Learn continuously: Technology is constantly evolving, so it' s essential for programmers to keep up with the latest developments and trends. Dedicate time each week to learn new skills, techniques, or tools that can help improve your workflow and productivity. Attend workshops, read blogs, watch tutorials, join online communities, attend conferences, network with other professionals, all of these can contribute to your growth as a developer.
+
+# 2024-03-01
+- Today's programming wisdom is to prioritize tasks, plan ahead, and stay organized. This will help you to be more efficient and productive in your work. First, prioritize your tasks based on their importance and deadlines. By giving priority to the tasks that need to get done first, you can ensure that you are making progress on the right things.
+
+Second, always plan your day or week ahead of time. Write down your goals for the day and break them down into smaller tasks. Then, allocate time for each task during your working hours. Planning ahead will prevent you from getting overwhelmed by tasks and help to maintain a sense of control. 
+ - 来自帮助助手
