@@ -550,3 +550,13 @@ In essence, don't try to optimize your code too early in the development process
 
 # 2024-03-14
 - "Today's programming wisdom: 'Simplicity is the ultimate sophistication.' — Leonardo da Vinci. Always strive to write clear, concise, and readable code that solves the problem at hand without unnecessary complexity. Remember that the code you write today might be read, understood, and modified by others tomorrow, or even by yourself months later. Invest time in planning, refactoring, and documenting your code for better maintainability and scalability."
+
+# 2024-03-15
+- "Today's programming wisdom is to embrace the SOLID principles: Single Responsibility, Open-Closed, Liskov Substitution, Interface Segregation, and Dependency Inversion. These guidelines ensure code maintainability, scalability, and reusability, making your software robust and adaptable for future changes. Always remember that clarity and simplicity are key; strive to write code that is easy to understand and testable, as it's often read more than written." 
+
+In practice, this means:
+1. A class should have only one reason to change (Single Responsibility).
+2. Software entities should be open for extension but closed for modification (Open-Closed).
+3. Derived classes must be substitutable for their base classes (Liskov Substitution).
+4. Depend on abstractions, not concrete implementations (Dependency Inversion).
+5. Many client-specific interfaces are better than one general-purpose interface (Interface Segregation).
