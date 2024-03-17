@@ -560,3 +560,10 @@ In practice, this means:
 3. Derived classes must be substitutable for their base classes (Liskov Substitution).
 4. Depend on abstractions, not concrete implementations (Dependency Inversion).
 5. Many client-specific interfaces are better than one general-purpose interface (Interface Segregation).
+
+# 2024-03-17
+- Today's programming wisdom is:
+
+"Code is read far more often than it is written. Strive for clarity and maintainability in your code, as future you and your colleagues will thank you. Optimize for readability and write self-documenting code that expresses its intent clearly. Remember, simplicity is the ultimate sophistication."
+
+In brief: "Write code that is easy to read, understand, and maintain, prioritizing clarity over cleverness."
